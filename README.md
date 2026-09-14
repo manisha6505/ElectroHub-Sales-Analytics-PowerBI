@@ -55,28 +55,6 @@ Provides a detailed view of the data using a table visualization.
 
 ![Table Visual](Dashboard-Screenshots/05-Table-Visual.png)
 
-## 📁 Project Structure
-
-```text
-ElectroHub-Sales-Analytics-PowerBI
-│
-├── ElectroHub_Sales_Analytics.pbix
-├── README.md
-│
-├── Dashboard-Screenshots
-│   ├── 01-Sales-Overview.png
-│   ├── 02-Product-Analysis.png
-│   ├── 03-Sales-Trends.png
-│   ├── 04-Profit-Discount-Analysis.png
-│   └── 05-City-Analysis.png
-│
-└── Dataset
-    └── sales_data.xlsx
-
-Then:
-
-```text
-
 
 
 📊 Dataset
