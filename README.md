@@ -25,35 +25,35 @@ The dashboard analyzes ElectroHub sales data to understand sales performance, pr
 
 ## 📈 Dashboard Pages
 
-### 1. Sales Overview
+### 1. ### 1. Sales Overview
 
 Provides an overall view of sales performance using key sales metrics and visualizations.
 
 ![Sales Overview](Dashboard-Screenshots/01-Sales-Overview.png)
 
-### 2. Top&Bottom_Product-Analysis
+### 2. Top & Bottom Product Analysis
 
-Analyzes product-level performance and helps identify products contributing to sales.
+Analyzes product-level performance and helps identify top and bottom performing products.
 
-![Top&Bottom_Product-Analysis](Dashboard-Screenshots/02-Top&Bottom_Product-Analysis.png)
+![Top & Bottom Product Analysis](Dashboard-Screenshots/02-Top-Bottom-Product-Analysis.png)
 
-### 3. comparison sales,Profit&Quantity
+### 3. Sales, Profit & Quantity Comparison
 
-Shows sales patterns and trends over time.
+Shows a comparison of sales, profit, and quantity.
 
-![comparison_sales,Profit&Quantity](Dashboard-Screenshots/03-comparison_sales,Profit&Quantity.png)
+![Sales, Profit & Quantity Comparison](Dashboard-Screenshots/03-Comparison-Sales-Profit-Quantity.png)
 
-### 4.Period-Comparison
+### 4. Period Comparison
 
-Analyzes profit and discount patterns to understand their impact on sales performance.
+Compares sales performance across different periods.
 
-![Period-Comparison](Dashboard-Screenshots/04-Period-Comparison.png)
+![Period Comparison](Dashboard-Screenshots/04-Period-Comparison.png)
 
-### 5.Table Visual
+### 5. Table Visual
 
-Provides a city-wise analysis of sales performance.
+Provides a detailed view of the data using a table visualization.
 
-![Table Visual](Dashboard-Screenshots/05-Table_Visual.png)
+![Table Visual](Dashboard-Screenshots/05-Table-Visual.png)
 
 ## 📂 Project Structure
 
