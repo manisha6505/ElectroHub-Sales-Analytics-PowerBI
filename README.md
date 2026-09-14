@@ -31,17 +31,17 @@ Provides an overall view of sales performance using key sales metrics and visual
 
 ![Sales Overview](Dashboard-Screenshots/01-Sales-Overview.png)
 
-### 2. Product Analysis
+### 2. Top&Bottom_Product-Analysis
 
 Analyzes product-level performance and helps identify products contributing to sales.
 
-![Product Analysis](Dashboard-Screenshots/02-Top&BottomProduct-Analysis.png)
+![Top&Bottom_Product-Analysis](Dashboard-Screenshots/02-Top&Bottom_Product-Analysis.png)
 
 ### 3. comparison sales,Profit&Quantity
 
 Shows sales patterns and trends over time.
 
-![Sales Trends](Dashboard-Screenshots/03-comparison_sales,Profit&Quantity.png)
+![comparison_sales,Profit&Quantity](Dashboard-Screenshots/03-comparison_sales,Profit&Quantity.png)
 
 ### 4.Period-Comparison
 
